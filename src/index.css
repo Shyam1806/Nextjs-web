@@ -10,7 +10,7 @@
   pointer-events: none;
 }
 .input:focus-visible{
-  outline:none;
+  outline:none !important;
 }
 .App-header {
   background-color: #282c34;
