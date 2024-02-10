@@ -9,6 +9,9 @@
   height: 40vmin;
   pointer-events: none;
 }
+.input:focus-visible{
+  outline:none;
+}
 .App-header {
   background-color: #282c34;
   min-height: 100vh;

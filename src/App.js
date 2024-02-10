@@ -38,7 +38,7 @@ function App() {
     <>
 
       <div className="App">
-        <header className="App-header">
+        <div className="App-header">
           <div className="weather-header mb-2">
             <img src="../img/weather-fav.webp" style={{width:"350px" , objectFit:"contain"}} alt="weather-appimg" />
            <h3 className="">Find Weather of Your City</h3>
@@ -103,10 +103,7 @@ function App() {
           <div>
             <p></p>
           </div> */}
-
-
-          {/* <h3>{weatherData.data.data.list[0].name}</h3> */}
-        </header>
+        </div>
 
       </div>
 
