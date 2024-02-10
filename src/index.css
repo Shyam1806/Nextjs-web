@@ -9,7 +9,7 @@
   height: 40vmin;
   pointer-events: none;
 }
-.input:focus-visible{
+input:focus-visible , input:focus-within{
   outline:none !important;
 }
 .App-header {
